@@ -1,16 +1,30 @@
-### Hi there 👋
+# Neil Brandon
 
-<!--
-**NeilBrandon/NeilBrandon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently working on
+<!-- Working on Start -->
+[![ICS Village Trainer 2025](https://github.com/NeilBrandon/Trainers/ICSVillageTrainer2025/FaceplateRender.png)](https://github.com/NeilBrandon/Trainers/ICSVillageTrainer2025/FaceplateRender.png)
+<!-- End Working on Start -->
 
-Here are some ideas to get you started:
+## ICS Examples
+<!-- ICS Examples Start -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Infrared Sauce Inspection System](https://)
+* [3D Crust Inspection System](https://)
+
+<!-- ICS Examples End -->
+
+## Blog Posts
+<!-- blog start -->
+
+* [Cybersecurity Challenges for Renewable Energy Systems](https://medium.com/@neilcbrandon/cybersecurity-challenges-for-renewable-energy-systems-463c2b58dd2d) - February 2024
+
+<!-- blog end -->
+
+## Get in touch
+
+* LinkedIn: [https://www.linkedin.com/in/neil-brandon/](https://www.linkedin.com/in/neil-brandon/)
+
+-----
+Credits: [NeilBrandon](https://github.com/NeilBrandon)
+
+Last Edited on: 01/15/2025

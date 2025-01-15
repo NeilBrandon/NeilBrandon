@@ -2,7 +2,7 @@
 
 ## Currently working on
 <!-- Working on Start -->
-[![ICS Village Trainer 2025](https://github.com/NeilBrandon/Trainers/ICSVillageTrainer2025/FaceplateRender.png)](https://github.com/NeilBrandon/Trainers/ICSVillageTrainer2025/FaceplateRender.png)
+[![ICS Village Trainer 2025](https://github.com/NeilBrandon/Trainers/ICSVillageTrainer2025/images/FaceplateRender.png)](https://github.com/NeilBrandon/Trainers/ICSVillageTrainer2025/images/FaceplateRender.png)
 <!-- End Working on Start -->
 
 ## ICS Examples

@@ -5,13 +5,7 @@
 ICS Village Trainer - 2024/2025
 <!-- End Working on Start -->
 
-## ICS Examples
-<!-- ICS Examples Start -->
-
-* [Infrared Sauce Inspection System](https://)
-* [3D Crust Inspection System](https://)
-
-<!-- ICS Examples End -->
+## [Portfolio Page](https://NeilBrandon.github.io)
 
 ## Blog Posts
 <!-- blog start -->
@@ -27,4 +21,4 @@ ICS Village Trainer - 2024/2025
 -----
 Credits: [NeilBrandon](https://github.com/NeilBrandon)
 
-Last Edited on: 01/15/2025
+Last Edited on: 02/13/2025

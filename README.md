@@ -2,8 +2,8 @@
 
 ## Currently working on
 <!-- Working on Start -->
-ICS Village Trainer - 2024/2025
-SecretCon Presentation - 06/19/2025
+- ICS Village Trainer - 2024/2025
+- SecretCon Presentation - 06/19/2025
 <!-- End Working on Start -->
 
 ## [Portfolio Page](https://NeilBrandon.github.io)

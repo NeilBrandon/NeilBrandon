@@ -2,6 +2,8 @@
 
 ## Currently working on
 <!-- Working on Start -->
+- Grassr00tz Presentation - 06/04/2026
+- MOTS 2026 - 04/24/2026
 - ICS Village Trainer - 2024/2025
 - SecretCon Presentation - 06/19/2025
 <!-- End Working on Start -->

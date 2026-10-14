@@ -2,20 +2,16 @@
 
 ## Currently working on
 <!-- Working on Start -->
-- Grassr00tz Presentation - 06/04/2026
-- MOTS 2026 - 04/24/2026
-- ICS Village Trainer - 2024/2025
-- SecretCon Presentation - 06/19/2025
+- CodeBlue 2027 Talk
+- MOTS 2027 Workshop/Talk
 <!-- End Working on Start -->
 
+## Links to previous talks
+- Grassr00tz 2026: [https://github.com/NeilBrandon/Grassr00tz_2026]
+- CodeBlue 2026: [https://github.com/NeilBrandon/CodeBlue_2026]
+- MOTS 2026: [https://github.com/NeilBrandon/MOCS_2026/]
+
 ## [Portfolio Page](https://NeilBrandon.github.io)
-
-## Blog Posts
-<!-- blog start -->
-
-* [Cybersecurity Challenges for Renewable Energy Systems](https://medium.com/@neilcbrandon/cybersecurity-challenges-for-renewable-energy-systems-463c2b58dd2d) - February 2024
-
-<!-- blog end -->
 
 ## Get in touch
 
@@ -24,4 +20,4 @@
 -----
 Credits: [NeilBrandon](https://github.com/NeilBrandon)
 
-Last Edited on: 02/13/2025
+Last Edited on: 10/14/2026

@@ -2,14 +2,14 @@
 
 ## Currently working on
 <!-- Working on Start -->
-- CodeBlue 2027 Talk
+- CodeBlue 2026 Talk
 - MOCS 2027 Workshop/Talk
 <!-- End Working on Start -->
 
 ## Links to previous talks
-- Grassr00tz 2026: [https://github.com/NeilBrandon/Grassr00tz_2026]
-- CodeBlue 2026: [https://github.com/NeilBrandon/CodeBlue_2026]
+- Grassr00tz 2026: [https://github.com/NeilBrandon/Grassr00tz_2026/]
 - MOCS 2026: [https://github.com/NeilBrandon/MOCS_2026/]
+- CodeBlue 2025: [https://github.com/NeilBrandon/CodeBlue_2025/]
 
 ## [Portfolio Page](https://NeilBrandon.github.io)
 
